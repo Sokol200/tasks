@@ -20,7 +20,7 @@
 
 https://github.com/WebMasterIT/1Task-VerstkaMel
 
-https://github.com/Rafc122/1-VerstkaMelFM
+https://github.com/Rafc122/1-Verstka_melFM
 
 https://github.com/MaksimFITU/1_MaksimFITU_VerstkaMEL
 
