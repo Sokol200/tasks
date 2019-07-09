@@ -25,3 +25,5 @@ https://github.com/Rafc122/1-Verstka_melFM
 https://github.com/MaksimFITU/1_MaksimFITU_VerstkaMEL
 
 https://github.com/Voodooo-131/Mel_verstka
+
+https://github.com/kyamran/1-mel_kyamran
